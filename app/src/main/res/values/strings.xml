@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mycalc</string>
+    <string name="result">Result</string>
+</resources>
